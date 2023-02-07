@@ -1,0 +1,13 @@
+C:\Users\Kaleb\source\repos\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.exe.config
+C:\Users\Kaleb\source\repos\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.exe
+C:\Users\Kaleb\source\repos\Distance Calculator\Distance Calculator\bin\Debug\Distance Calculator.pdb
+C:\Users\Kaleb\source\repos\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.csproj.AssemblyReference.cache
+C:\Users\Kaleb\source\repos\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kaleb\source\repos\Distance Calculator\Distance Calculator\obj\Debug\Distance_Calculator.DistanceCalculator.resources
+C:\Users\Kaleb\source\repos\Distance Calculator\Distance Calculator\obj\Debug\Distance_Calculator.Properties.Resources.resources
+C:\Users\Kaleb\source\repos\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.csproj.GenerateResource.cache
+C:\Users\Kaleb\source\repos\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Kaleb\source\repos\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.exe
+C:\Users\Kaleb\source\repos\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.pdb
+C:\Users\Kaleb\source\repos\Distance Calculator\Distance Calculator\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\Kaleb\source\repos\Distance Calculator\Distance Calculator\obj\Debug\Distance Calculator.csproj.CopyComplete

@@ -1,0 +1,11 @@
+C:\Users\Kaleb\source\repos\Temperature Translation\Temperature Translation\bin\Debug\Temperature Translation.exe.config
+C:\Users\Kaleb\source\repos\Temperature Translation\Temperature Translation\bin\Debug\Temperature Translation.exe
+C:\Users\Kaleb\source\repos\Temperature Translation\Temperature Translation\bin\Debug\Temperature Translation.pdb
+C:\Users\Kaleb\source\repos\Temperature Translation\Temperature Translation\obj\Debug\Temperature Translation.csproj.AssemblyReference.cache
+C:\Users\Kaleb\source\repos\Temperature Translation\Temperature Translation\obj\Debug\Temperature Translation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kaleb\source\repos\Temperature Translation\Temperature Translation\obj\Debug\Temperature_Translation.formTempCalc.resources
+C:\Users\Kaleb\source\repos\Temperature Translation\Temperature Translation\obj\Debug\Temperature_Translation.Properties.Resources.resources
+C:\Users\Kaleb\source\repos\Temperature Translation\Temperature Translation\obj\Debug\Temperature Translation.csproj.GenerateResource.cache
+C:\Users\Kaleb\source\repos\Temperature Translation\Temperature Translation\obj\Debug\Temperature Translation.csproj.CoreCompileInputs.cache
+C:\Users\Kaleb\source\repos\Temperature Translation\Temperature Translation\obj\Debug\Temperature Translation.exe
+C:\Users\Kaleb\source\repos\Temperature Translation\Temperature Translation\obj\Debug\Temperature Translation.pdb

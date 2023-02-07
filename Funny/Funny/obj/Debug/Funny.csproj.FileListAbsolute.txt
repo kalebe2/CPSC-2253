@@ -1,0 +1,11 @@
+C:\Users\Kaleb\source\repos\Funny\Funny\bin\Debug\Funny.exe.config
+C:\Users\Kaleb\source\repos\Funny\Funny\bin\Debug\Funny.exe
+C:\Users\Kaleb\source\repos\Funny\Funny\bin\Debug\Funny.pdb
+C:\Users\Kaleb\source\repos\Funny\Funny\obj\Debug\Funny.csproj.AssemblyReference.cache
+C:\Users\Kaleb\source\repos\Funny\Funny\obj\Debug\Funny.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kaleb\source\repos\Funny\Funny\obj\Debug\Funny.formFunnyHaHa.resources
+C:\Users\Kaleb\source\repos\Funny\Funny\obj\Debug\Funny.Properties.Resources.resources
+C:\Users\Kaleb\source\repos\Funny\Funny\obj\Debug\Funny.csproj.GenerateResource.cache
+C:\Users\Kaleb\source\repos\Funny\Funny\obj\Debug\Funny.csproj.CoreCompileInputs.cache
+C:\Users\Kaleb\source\repos\Funny\Funny\obj\Debug\Funny.exe
+C:\Users\Kaleb\source\repos\Funny\Funny\obj\Debug\Funny.pdb

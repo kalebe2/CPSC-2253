@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latin Translator", "Latin Translator\Latin Translator.csproj", "{D806D719-BCFE-481B-8633-EE63578A49CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D806D719-BCFE-481B-8633-EE63578A49CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D806D719-BCFE-481B-8633-EE63578A49CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D806D719-BCFE-481B-8633-EE63578A49CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D806D719-BCFE-481B-8633-EE63578A49CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18D81294-0DA3-407A-A369-980C15B6BF0F}
+	EndGlobalSection
+EndGlobal
