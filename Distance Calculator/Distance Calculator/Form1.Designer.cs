@@ -80,6 +80,7 @@ namespace Distance_Calculator
             this.textHours.Size = new System.Drawing.Size(104, 35);
             this.textHours.TabIndex = 7;
             this.textHours.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            
             // 
             // textSpeed
             // 
