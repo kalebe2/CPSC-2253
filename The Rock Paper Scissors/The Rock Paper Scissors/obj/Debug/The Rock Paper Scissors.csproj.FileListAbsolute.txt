@@ -1,0 +1,11 @@
+C:\Users\Kaleb\Documents\GitHub\CPSC-2253\The Rock Paper Scissors\The Rock Paper Scissors\bin\Debug\The Rock Paper Scissors.exe.config
+C:\Users\Kaleb\Documents\GitHub\CPSC-2253\The Rock Paper Scissors\The Rock Paper Scissors\bin\Debug\The Rock Paper Scissors.exe
+C:\Users\Kaleb\Documents\GitHub\CPSC-2253\The Rock Paper Scissors\The Rock Paper Scissors\bin\Debug\The Rock Paper Scissors.pdb
+C:\Users\Kaleb\Documents\GitHub\CPSC-2253\The Rock Paper Scissors\The Rock Paper Scissors\obj\Debug\The Rock Paper Scissors.csproj.AssemblyReference.cache
+C:\Users\Kaleb\Documents\GitHub\CPSC-2253\The Rock Paper Scissors\The Rock Paper Scissors\obj\Debug\The Rock Paper Scissors.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kaleb\Documents\GitHub\CPSC-2253\The Rock Paper Scissors\The Rock Paper Scissors\obj\Debug\The_Rock_Paper_Scissors.RockPaperScissors.resources
+C:\Users\Kaleb\Documents\GitHub\CPSC-2253\The Rock Paper Scissors\The Rock Paper Scissors\obj\Debug\The_Rock_Paper_Scissors.Properties.Resources.resources
+C:\Users\Kaleb\Documents\GitHub\CPSC-2253\The Rock Paper Scissors\The Rock Paper Scissors\obj\Debug\The Rock Paper Scissors.csproj.GenerateResource.cache
+C:\Users\Kaleb\Documents\GitHub\CPSC-2253\The Rock Paper Scissors\The Rock Paper Scissors\obj\Debug\The Rock Paper Scissors.csproj.CoreCompileInputs.cache
+C:\Users\Kaleb\Documents\GitHub\CPSC-2253\The Rock Paper Scissors\The Rock Paper Scissors\obj\Debug\The Rock Paper Scissors.exe
+C:\Users\Kaleb\Documents\GitHub\CPSC-2253\The Rock Paper Scissors\The Rock Paper Scissors\obj\Debug\The Rock Paper Scissors.pdb
